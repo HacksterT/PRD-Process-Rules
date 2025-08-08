@@ -9,7 +9,8 @@ This repo includes rules for **feature PRDs**, **task creation**, and **investig
 - `prd_process/create-overview-prd.md` – Rule for generating a project overview PRD
 - `prd_process/create-task-from-prd.md` – Rule for generating task lists from a PRD (parent tasks → subtasks)
 - `prd_process/task-management.md` – Guidance for task hygiene and workflow
-- `prd_process/investigate-bug.md` – Investigation-first debugging rule (Phase 1 & 2 questions → Phase 3 BID)
+- `prd_process/investigate-bug.md` – Investigation-first debugging rule (Phase 1 questions & Phase 2 BID)
+- `prd_process/investigate-bug-adv.md` – Investigation-first debugging rule (Phase 1 & 2 questions → Phase 3 BID)
 - `prd_process/create-debug-task-list.md` – Rule for turning a completed investigation into a fix task list
 
 ## Why this exists
