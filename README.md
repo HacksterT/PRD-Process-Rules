@@ -13,6 +13,10 @@ This repo includes rules for **feature PRDs**, **task creation**, and **investig
 - `prd_process/investigate-bug-adv.md` – Investigation-first debugging rule (Phase 1 & 2 questions → Phase 3 BID)
 - `prd_process/create-debug-task-list.md` – Rule for turning a completed investigation into a fix task list
 
+## PRD Process Overview
+
+![Cortivus PRD Process](images/cortivus_prd_process_square.png)
+
 ## Why this exists
 
 AI can be brilliant *and* impulsive. These rules:
